@@ -1,0 +1,7 @@
+C:\Users\Дима\Desktop\jokes with string\jokes with string\obj\Debug\jokes with string.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\jokes with string\jokes with string\obj\Debug\jokes with string.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\jokes with string\jokes with string\bin\Debug\jokes with string.exe.config
+C:\Users\Дима\Desktop\jokes with string\jokes with string\bin\Debug\jokes with string.exe
+C:\Users\Дима\Desktop\jokes with string\jokes with string\bin\Debug\jokes with string.pdb
+C:\Users\Дима\Desktop\jokes with string\jokes with string\obj\Debug\jokes with string.exe
+C:\Users\Дима\Desktop\jokes with string\jokes with string\obj\Debug\jokes with string.pdb
